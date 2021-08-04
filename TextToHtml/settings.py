@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-g8lci!#t+mpk=k-!%ln&!r2cdyx)o2=f(^0kzc@p&)68lf)@iz
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://text-to-htm-converter.herokuapp.com/', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['https://texttohtmlconverter.herokuapp.com/ ', 'localhost', '127.0.0.1']
 
 
 # Application definition
